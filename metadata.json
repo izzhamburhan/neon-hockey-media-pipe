@@ -1,0 +1,8 @@
+{
+  "name": "Neon Hand Hockey AI",
+  "description": "A futuristic two-player air hockey game controlled by hand gestures via webcam, featuring real-time AI commentary powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
